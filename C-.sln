@@ -2,8 +2,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-", "C-.csproj", "{FD0BC25B-70BB-6ADA-E714-510DF4CE6696}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade2", "atividade2\atividade2.csproj", "{6B3E30E4-36FB-4C2D-03E0-0F01DCB5875B}"
 EndProject
 Global
@@ -12,10 +10,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FD0BC25B-70BB-6ADA-E714-510DF4CE6696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FD0BC25B-70BB-6ADA-E714-510DF4CE6696}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FD0BC25B-70BB-6ADA-E714-510DF4CE6696}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FD0BC25B-70BB-6ADA-E714-510DF4CE6696}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6B3E30E4-36FB-4C2D-03E0-0F01DCB5875B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6B3E30E4-36FB-4C2D-03E0-0F01DCB5875B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B3E30E4-36FB-4C2D-03E0-0F01DCB5875B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -25,6 +19,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5C05DCFE-8FCE-47C4-96C6-34FB20B4C43C}
+		SolutionGuid = {0259E925-B440-4877-A9F2-317B71024F65}
 	EndGlobalSection
 EndGlobal
