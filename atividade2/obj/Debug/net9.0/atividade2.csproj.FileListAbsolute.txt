@@ -1,0 +1,15 @@
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\bin\Debug\net9.0\atividade2.exe
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\bin\Debug\net9.0\atividade2.deps.json
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\bin\Debug\net9.0\atividade2.runtimeconfig.json
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\bin\Debug\net9.0\atividade2.dll
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\bin\Debug\net9.0\atividade2.pdb
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\obj\Debug\net9.0\atividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\obj\Debug\net9.0\atividade2.AssemblyInfoInputs.cache
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\obj\Debug\net9.0\atividade2.AssemblyInfo.cs
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\obj\Debug\net9.0\atividade2.csproj.CoreCompileInputs.cache
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\obj\Debug\net9.0\atividade2.sourcelink.json
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\obj\Debug\net9.0\atividade2.dll
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\obj\Debug\net9.0\refint\atividade2.dll
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\obj\Debug\net9.0\atividade2.pdb
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\obj\Debug\net9.0\atividade2.genruntimeconfig.cache
+C:\Users\hbrag\OneDrive\Documentos\GitHub\C-\atividade2\obj\Debug\net9.0\ref\atividade2.dll
