@@ -9,42 +9,8 @@ public class ReceberDados
 
         Console.WriteLine("Digite qual temperatura voce quer converter?");
         Console.WriteLine("Digite 1 para celsius ; 2 para fahrenheit; 3 para kelvin; 4 para rankine:");
-        resposta = int.Parse(Console.ReadLine());
-        /*if (resposta == 1)
-        {
-           
-        }
-        else if (resposta == 2)
-        {
-            
-        }
-        else if (resposta == 3)
-        {
-            Console.WriteLine("Digite a teperatura em kelvin:");
-            kelvin = Convert.ToDouble(Console.ReadLine());
-
-            rankine = kelvin * 1.8;
-            celsius = kelvin - 273.15;
-            fahrenheit = (kelvin - 273.15) * 9 / 5 + 32;
-
-            Console.WriteLine("celsius:" + celsius);
-            Console.WriteLine("rankine:" + rankine);
-            Console.WriteLine("fahrenheit:" + fahrenheit);
-        }
-        else
-        {
-            Console.WriteLine("Digite a teperatura em rankine:");
-            rankine = Convert.ToDouble(Console.ReadLine());
-
-            kelvin = rankine * 5 / 9;
-            celsius = (rankine - 491.67) * 5 / 9;
-            fahrenheit = rankine - 459.67;
-
-            Console.WriteLine("kelvin:" + kelvin);
-            Console.WriteLine("celsius:" + celsius);
-            Console.WriteLine("fahrenheit:" + fahrenheit);
-        }*/
-
+        resposta = int.TryParse(Console.ReadLine(), out resposta);
+        
         switch (resposta)
         {
             case 1:
