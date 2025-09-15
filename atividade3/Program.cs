@@ -34,7 +34,6 @@ public class teste
 
         int resultado = produton * produtom;
         Console.WriteLine(resultado);
-        Console.WriteLine("acabo");
         Console.ReadKey();
     }
 }
