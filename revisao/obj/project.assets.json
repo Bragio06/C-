@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hbrag\\C-\\repeticao\\repeticao.csproj",
-      "projectName": "repeticao",
-      "projectPath": "C:\\Users\\hbrag\\C-\\repeticao\\repeticao.csproj",
+      "projectUniqueName": "C:\\Users\\hbrag\\C-\\revisao\\revisao.csproj",
+      "projectName": "revisao",
+      "projectPath": "C:\\Users\\hbrag\\C-\\revisao\\revisao.csproj",
       "packagesPath": "C:\\Users\\hbrag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hbrag\\C-\\repeticao\\obj\\",
+      "outputPath": "C:\\Users\\hbrag\\C-\\revisao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

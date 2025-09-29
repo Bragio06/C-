@@ -1,26 +1,25 @@
 ﻿using System;
+using System.Text;
 
-public class teste
+public class Program
 {
     public static void Main(string[] args)
-    {   
-        int numero;
-        Console.WriteLine("Digite o primeiro numero");
-        bool valor = int.TryParse(Console.ReadLine(), out numero);
+    {
+        FileStream meuarq = new FileStream("dados.txt", FileMode.Open, FileAccess.Write);
 
-        while (numero <= 200)
+        StreamWriter str = new StreamWriter(meuarq, Encoding.UTF8);
+
+        string sr = string.Empty;
+
+        while (sr != "sair")
         {
-            Console.WriteLine("--------------------------------------------");
-            Console.WriteLine("Digite um numero");
-            int novoNumero = int.Parse(Console.ReadLine());
-            numero += novoNumero;
-            Console.WriteLine("--------------------------------------------");
-            Console.WriteLine(numero);
-            
-             
-            
+            Console.WriteLine("Digite uma linha (ou 'sair' para terminar):");
+            sr = Console.ReadLine();
+            str.WriteLine(sr);
         }
-        Console.WriteLine("acabo");
-        Console.ReadKey();
+        str.Close();
+        meuarq.Close();
+
+        
     }
 }
