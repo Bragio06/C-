@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Text;
 
-public class teste
+public class Program
 {
     public static void Main(string[] args)
     {
+<<<<<<< HEAD
         int quntidade = 2;
         int matricula;
         double media = 0;
@@ -33,5 +35,23 @@ public class teste
         }
         ;
         Console.WriteLine("Acabou");
+=======
+        FileStream meuarq = new FileStream("dados.txt", FileMode.Open, FileAccess.Write);
+
+        StreamWriter str = new StreamWriter(meuarq, Encoding.UTF8);
+
+        string sr = string.Empty;
+
+        while (sr != "sair")
+        {
+            Console.WriteLine("Digite uma linha (ou 'sair' para terminar):");
+            sr = Console.ReadLine();
+            str.WriteLine(sr);
+        }
+        str.Close();
+        meuarq.Close();
+
+        
+>>>>>>> 52e7ac2342e8fea9f7af4a01a0dd1c2442d6dd5d
     }
 }

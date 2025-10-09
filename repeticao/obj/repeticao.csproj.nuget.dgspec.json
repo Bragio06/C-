@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hbrag\\OneDrive\\Documentos\\GitHub\\C-\\repeticao\\repeticao.csproj": {}
+    "C:\\Users\\hbrag\\C-\\repeticao\\repeticao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hbrag\\OneDrive\\Documentos\\GitHub\\C-\\repeticao\\repeticao.csproj": {
+    "C:\\Users\\hbrag\\C-\\repeticao\\repeticao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hbrag\\OneDrive\\Documentos\\GitHub\\C-\\repeticao\\repeticao.csproj",
+        "projectUniqueName": "C:\\Users\\hbrag\\C-\\repeticao\\repeticao.csproj",
         "projectName": "repeticao",
-        "projectPath": "C:\\Users\\hbrag\\OneDrive\\Documentos\\GitHub\\C-\\repeticao\\repeticao.csproj",
+        "projectPath": "C:\\Users\\hbrag\\C-\\repeticao\\repeticao.csproj",
         "packagesPath": "C:\\Users\\hbrag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hbrag\\OneDrive\\Documentos\\GitHub\\C-\\repeticao\\obj\\",
+        "outputPath": "C:\\Users\\hbrag\\C-\\repeticao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
